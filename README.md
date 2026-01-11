@@ -31,7 +31,7 @@ Geliştirici iseniz veya kodları incelemek istiyorsanız:
 
 1.  Projeyi klonlayın:
     ```bash
-    git clone [[https://github.com/KULLANICI_ADIN/SysSetup.git](https://github.com/KULLANICI_ADIN/SysSetup.git](https://github.com/AhmetSekeroymagi/SekerAhmet-SysSetup))
+    git clone [https://github.com/AhmetSekeroymagi/SekerAhmet-SysSetup.git](https://github.com/AhmetSekeroymagi/SekerAhmet-SysSetup.git)
     cd SekerAhmet-SysSetup
     ```
 
